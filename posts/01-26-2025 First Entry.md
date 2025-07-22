@@ -1,3 +1,9 @@
+---
+title: First Entry
+date: 2025-01-26
+permalink: /blog/2025/01/26/First-Entry
+---
+
 # 01-26-2025 First Entry
 
 My name is Miakoda. I'm LGBT. Lesbian, to be more specific. I'm autistic, and I
