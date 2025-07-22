@@ -6,9 +6,8 @@
     "email": "hellomiakoda@runbox.com"
   },
   "social": {
-    "github": "hellomiakoda",
-    "medium": "hellomiakoda",
-    "twitter": "hellomiakoda"
+    "mastodon": "@hellomiakoda@pdx.social",
+    "youtube": "hellomiakoda"
   },
   "newsletter": {
     "showTwitterBanner": true,
