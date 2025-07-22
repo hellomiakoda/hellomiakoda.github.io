@@ -1,14 +1,14 @@
 {
-  "title": "Kamran Ahmed",
-  "subtitle": "Lead engineer at tradeling — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "title": "HelloMiakoda",
+  "subtitle": "An autistic lesbian surviving fascism",
   "owner": {
-    "name": "Kamran Ahmed",
-    "email": "kamranahmed.se@gmail.com"
+    "name": "HelloMiakoda",
+    "email": "hellomiakoda@runbox.com"
   },
   "social": {
-    "github": "kamranahmedse",
-    "medium": "kamranahmedse",
-    "twitter": "kamranahmedse"
+    "github": "hellomiakoda",
+    "medium": "hellomiakoda",
+    "twitter": "hellomiakoda"
   },
   "newsletter": {
     "showTwitterBanner": true,
@@ -16,14 +16,14 @@
     "revueUsername": "roadmapsh"
   },
   "seo": {
-    "title": "Kamran Ahmed",
-    "description": "Blog of a Software Engineer",
-    "author": "Kamran Ahmed",
+    "title": "HelloMiakoda",
+    "description": "Blog of an Autistic Lesbian",
+    "author": "HelloMiakoda",
     "keywords": [
       "blog",
-      "developer blog",
-      "engineering blog"
+      "autistic blog",
+      "lesbian blog"
     ]
   },
-  "cname": "kamranahmed.info"
+  "cname": "hellomiakoda.github.io"
 }
