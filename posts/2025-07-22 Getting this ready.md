@@ -1,7 +1,7 @@
 ---
 Title: Getting This Ready
 date: 2025-07-22
-permalink: /blog/2025/07/22/getting-this-ready
+permalink: /blog/2025/07/getting-this-ready
 ---
 
 # Getting This Ready
