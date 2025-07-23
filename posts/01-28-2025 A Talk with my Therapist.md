@@ -1,3 +1,9 @@
+---
+title: A Talk with My Therapist
+date: 2025-01-28
+permalink: /blog/2025/01/28/a-talk-with-therapist
+---
+
 # 01-28-2025 A Talk With my Therapist
 
 I talked to my therapist this week. I told her about how I'm terrified of
@@ -29,9 +35,5 @@ disability benefits. I'm not able to hold a job, and even if I could I'm unlikel
 since Trump repealed the act that keeps employers from discriminating against
 disabled people.
 
----
-title: A Talk with My Therapist
-date: 2025-01-28
-permalink: /blog/2025/01/28/a-talk-with-therapist
----
+
 
