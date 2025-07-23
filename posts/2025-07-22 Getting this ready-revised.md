@@ -1,5 +1,5 @@
 ---
-Title: Getting This Ready
+title: Getting This Ready
 date: 2025-07-22
 permalink: /blog/2025/07/getting-this-ready-revised
 ---
